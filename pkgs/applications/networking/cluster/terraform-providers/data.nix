@@ -252,9 +252,9 @@
     {
       owner   = "terraform-providers";
       repo    = "terraform-provider-datadog";
-      rev     = "v2.7.0";
-      version = "2.7.0";
-      sha256  = "0cq11cjcm2nlszqhsrj425mk8dp0h5ljrrn7jplrbffp8g6wvadd";
+      rev     = "v2.12.0";
+      version = "2.12.0";
+      sha256  = "1xxv9zazxygy1823yih8dg51nnd1knsv5w9fjqcd0936qfz8jypk";
     };
   digitalocean =
     {
