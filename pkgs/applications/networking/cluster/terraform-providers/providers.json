@@ -233,6 +233,7 @@
     "repo": "terraform-provider-datadog",
     "rev": "v2.16.0",
     "sha256": "059bixrf2jx7wn6sb3xiszrh3yl5wx6i07wzmb0x7bk8vg45x4yp",
+    "vendorSha256": null,
     "version": "2.16.0"
   },
   "digitalocean": {
